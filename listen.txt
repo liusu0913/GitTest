@@ -1,2 +1,3 @@
 listen 文件
 切换到了branch1分支；
+创建了分支barnch2，这是master分支
