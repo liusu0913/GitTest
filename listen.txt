@@ -1,3 +1,4 @@
 listen 文件
 切换到了branch1分支；
 创建了分支barnch2，这是master分支
+此时我正在修改但是出现了BUG。。。。
